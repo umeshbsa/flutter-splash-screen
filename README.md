@@ -1,4 +1,4 @@
-# flutter_splash_screen
+# Flutter Splash Screen App.
 
 ### Screenshot
  <img src="https://github.com/umeshbsa/flutter-splash-screen/blob/master/screen.gif"/>
